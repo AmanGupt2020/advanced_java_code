@@ -1,4 +1,3 @@
-{"date":"2023-04-12T14:56:45+05:30"}
 package com.company;
 
 abstract class abstract_class {
